@@ -1,0 +1,2 @@
+This is a Common Lisp library to do parallel computing using well-known functional abstractions such as mapcar or dolist.
+You'll need the Eager-Future2 package.
